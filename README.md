@@ -4,6 +4,8 @@ Net Promoter Score (NPS) is an easy way to measure customer relationships by usi
 
 Scoring is typically on a scale of 0 (worst) to 10 (best). 
 
+We recommend Net Promoter Score as our #1 metric for rollup up results, and this page explains why.
+
 
 ## Who uses it and how?
 
@@ -33,8 +35,6 @@ Net Promoter Score is related to areas and questions such as:
 
 ## Pros
 
-We recommend Net Promoter Score as our #1 metric for rolling up results because:
-
 1. NPS is a widely-known high-level good-enough metric, in active use by thousands of companies, agencies, industries.
 
 2. NPS is fast and easy use and analyze, because it proxies for satisfaction, approval, scorecards, retention, loyalty, growth, and more - see below for examples.
@@ -57,13 +57,13 @@ We recommend Net Promoter Score as our #1 metric for rolling up results because:
 
     * We're fine with this because we use NPS just as a first approximation rollup, and we help adjust for bias by also using real data from real actions.
   
-    * We also run analytics that compare a user's prediction and actual behavior; this is an easy valuable way to improve our understanding of users' attitudes and actions, and to surface areas where there are gaps.
+    * We can also run analytics that compare a user's prediction and actual behavior; this is an easy valuable way to improve our understanding of users' attitudes compared to actions, and to surface areas where there are gaps.
 
 2. NPS is statistically imperfect/overgeneralized/vague and companies should be asking more-exact more-specific more-targeted questions that result in better data. 
 
     * We're fine with this because we highly value having a one top-level well-known metric that works across all areas, versus having multiple top-level metrics, or lesser-known top-level metrics, or disparate top-level metrics.
 
-    * We adjust for this by rolling down to more-specific statistics and more-targeted questions, and we use a range of tactics such as involving subject matter experts, doing customer discovery interviews, and providing free form reponse capabilties; this enables us to use NPS at the top, and expand as needed to lower-level specifics.
+    * We can adjust for this by rolling down to more-specific statistics and more-targeted questions, and we use a range of tactics such as involving subject matter experts, doing customer discovery interviews, and providing free form reponse capabilties; this enables us to use NPS at the top, and expand as needed to lower-level specifics.
 
 3. NPS takes too much time, because the user needs to have an experience, then agree to respond.
 
