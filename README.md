@@ -55,21 +55,21 @@ We recommend Net Promoter Score as our #1 metric for rolling up results because:
 
 1. NPS relies on user sentiment and user prediction of future actions, rather than actual behavior.
 
-  * We're fine with this because we use NPS just as a first approximation rollup, and we help adjust for bias by also using real data from real actions.
+    * We're fine with this because we use NPS just as a first approximation rollup, and we help adjust for bias by also using real data from real actions.
   
-  * We also run analytics that compare a user's prediction and actual behavior; this is an easy valuable way to improve our understanding of users' attitudes and actions, and to surface areas where there are gaps.
+    * We also run analytics that compare a user's prediction and actual behavior; this is an easy valuable way to improve our understanding of users' attitudes and actions, and to surface areas where there are gaps.
 
 2. NPS is statistically imperfect/overgeneralized/vague and companies should be asking more-exact more-specific more-targeted questions that result in better data. 
 
-  * We're fine with this because we highly value having a one top-level well-known metric that works across all areas, versus having multiple top-level metrics, or lesser-known top-level metrics, or disparate top-level metrics.
+    * We're fine with this because we highly value having a one top-level well-known metric that works across all areas, versus having multiple top-level metrics, or lesser-known top-level metrics, or disparate top-level metrics.
 
-  * We adjust for this by rolling down to more-specific statistics and more-targeted questions, and we use a range of tactics such as involving subject matter experts, doing customer discovery interviews, and providing free form reponse capabilties; this enables us to use NPS at the top, and expand as needed to lower-level specifics.
+    * We adjust for this by rolling down to more-specific statistics and more-targeted questions, and we use a range of tactics such as involving subject matter experts, doing customer discovery interviews, and providing free form reponse capabilties; this enables us to use NPS at the top, and expand as needed to lower-level specifics.
 
 3. NPS takes too much time, because the user needs to have an experience, then agree to respond.
 
-  * We use NPS differently -- in a fast way -- because we specialize in agile/lean development and value fast decision guidance.
+    * We use NPS differently -- in a fast way -- because we specialize in agile/lean development and value fast decision guidance.
 
-  * We can show a user a few one-page mockups, and ask the person for NPS for each one; this takes just a couple minutes per mockup. The fast answers are valuable for us because we emphasize improvement and iteration; we care less about the number score, and more about the approximate trendline of whether we're increasing or decreasing.
+    * We can show a user a few one-page mockups, and ask the person for NPS for each one; this takes just a couple minutes per mockup. The fast answers are valuable for us because we emphasize improvement and iteration; we care less about the number score, and more about the approximate trendline of whether we're increasing or decreasing.
    
 
 ## Metrics beyond NPS
