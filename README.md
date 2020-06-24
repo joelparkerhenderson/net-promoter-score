@@ -72,6 +72,19 @@ We recommend Net Promoter Score as our #1 metric for rolling up results because:
   * We can show a user a few one-page mockups, and ask the person for NPS for each one; this takes just a couple minutes per mockup. The fast answers are valuable for us because we emphasize improvement and iteration; we care less about the number score, and more about the approximate trendline of whether we're increasing or decreasing.
    
 
+## Metrics beyond NPS
+
+We especially like the metrics and descriptions created by Andreessen Horowitz, a leading Silicon Valley investment firm for startups. These metrics can be good for a wide range of companies and projects of all sizes.
+
+* [16 Startup Metrics](https://a16z.com/2015/08/21/16-metrics/)
+
+* [16 More Startup Metrics](https://a16z.com/2015/09/23/16-more-metrics/)
+
+* [16 Key Metrics for the Passion Economy](https://a16z.com/2020/01/08/key-metrics-for-the-passion-economy/)
+
+* [11 Key Go-To-Market (GTM) Metrics for Business-to-Business (B2B) Startups](https://a16z.com/2020/02/10/11-gtm-metrics-for-b2b-startups/)
+
+
 ## See also
 
 * [Wikipedia: Net Promoter](https://en.wikipedia.org/wiki/Net_Promoter)
