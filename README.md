@@ -67,9 +67,9 @@ Net Promoter Score is related to areas and questions such as:
 
 3. NPS takes too much time, because the user needs to have an experience, then agree to respond.
 
-    * We use NPS differently -- in a fast way -- because we specialize in agile/lean development and value fast decision guidance.
+    * We use NPS in the traditional way and also use NPS in a rapid way because we specialize in agile/lean development and value fast decision guidance.
 
-    * We can show a user a few one-page mockups, and ask the person for NPS for each one; this takes just a couple minutes per mockup. The fast answers are valuable for us because we emphasize improvement and iteration; we care less about the number score, and more about the approximate trendline of whether we're increasing or decreasing.
+    * We can show a user a few one-page mockups, and ask the person for NPS for each one; this takes just a couple minutes per mockup. The fast answers are valuable for us because we emphasize improvement and iteration; we care less about the number score, and more about the approximate trendline of whether we're increasing or decreasing. We then improve the work by creating high-fidelity prototypes, then real launches, and at each step we can ask for NPS to help firm up the score so it becomes more accurate and more experiential.
    
 
 ## Metrics beyond NPS
