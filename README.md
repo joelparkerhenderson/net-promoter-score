@@ -35,7 +35,7 @@ Net Promoter Score is related to areas and questions such as:
 
 We recommend Net Promoter Score as our #1 metric for rolling up results because:
 
-1. NPS is a widely-known high-level metric, in active use by thousands of companies, agencies, industries.
+1. NPS is a widely-known high-level good-enough metric, in active use by thousands of companies, agencies, industries.
 
 2. NPS is fast and easy use and analyze, because it proxies for satisfaction, approval, scorecards, retention, loyalty, growth, and more - see below for examples.
 
