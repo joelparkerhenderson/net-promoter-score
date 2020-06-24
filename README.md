@@ -55,7 +55,7 @@ We recommend Net Promoter Score as our #1 metric for rolling up results because:
 
 1. NPS relies on user sentiment and user prediction of future actions, rather than actual behavior.
 
-  * We're fine with this because we use NPS just as a first approximation rollup, and we adjust for bias by using real data from real actions.
+  * We're fine with this because we use NPS just as a first approximation rollup, and we help adjust for bias by also using real data from real actions.
   
   * We also run analytics that compare a user's prediction and actual behavior; this is an easy valuable way to improve our understanding of users' attitudes and actions, and to surface areas where there are gaps.
 
