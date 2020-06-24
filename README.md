@@ -24,7 +24,7 @@ Net Promoter Score is related to areas and questions such as:
 
 * Approval categorization bins, such as "Do you want this? Yes / No / Maybe".
 
-* Scorecard grades, such as "What's your score for this, where grade A is best and grade F is worst?".
+* Scorecard grades, such as "What's your grade for this? Grade A is best, F is worst".
 
 * Loyalty sentiment, such as "How committed are you to this? Very / Somewhat / Not".
 
